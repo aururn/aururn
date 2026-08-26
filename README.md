@@ -74,4 +74,3 @@ Web開発、AIアプリケーション、デジタルマーケティング領域
 * [GitHub](https://github.com/aururn)
 * [Computer Vision Lab - Kyoto Institute of Technology](https://vision.is.kit.ac.jp/index.ja.html)
 * [LANTERN inc.](https://lantern-inc.jp/)
-* [IUT de Lens - Université d'Artois](https://www.iut-lens.univ-artois.fr/)
