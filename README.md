@@ -46,7 +46,7 @@ Web開発、AIアプリケーション、デジタルマーケティング領域
 ### Languages / Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode&perline=8" />
 </p>
 
 ### Cloud / Web
