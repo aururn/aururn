@@ -1,12 +1,3 @@
-京都工芸繊維大学 情報工学課程 B4
-コンピュータビジョン研究室 / 株式会社LANTERN 長期インターン
-
-**AI Agents / Computer Vision / Generative AI / Web Development**
-
-Codex / Claude Codeを日常的な開発環境として利用し、AIエージェントを用いた業務自動化やWeb開発、生成AIを活用したシステム開発に取り組んでいます。
-
----
-
 ## About Me
 
 * 京都工芸繊維大学 工芸科学部 設計工学域 情報工学課程
