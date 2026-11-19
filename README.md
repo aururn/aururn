@@ -1,7 +1,5 @@
 # Kaito Takahashi
 
-[ポートフォリオ / Portfolio](https://kqito-takahashi.org/)
-
 ## About Me
 
 * 京都工芸繊維大学 工芸科学部 設計工学域 情報工学課程
@@ -75,6 +73,7 @@ Web開発、AIアプリケーション、デジタルマーケティング領域
 
 ## Links
 
+* [ポートフォリオ / Portfolio](https://kqito-takahashi.org/)
 * [GitHub](https://github.com/aururn)
 * [Computer Vision Lab - Kyoto Institute of Technology](https://vision.is.kit.ac.jp/index.ja.html)
 * [LANTERN inc.](https://lantern-inc.jp/)
